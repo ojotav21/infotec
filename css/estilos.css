@@ -1,0 +1,42 @@
+#faixada{
+    background-image: url("../assets/img/faixada.webp");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #06070B;
+
+
+}
+#about{
+    background-color: #06070B;
+}
+
+@media (max-width: 576px) {
+    #faixada{
+        background-image: url("../assets/img/faixada.webp");
+        background-size: 110%;
+        background-repeat: no-repeat;
+        background-color: #06070B;
+    }
+  }
+  @media (max-width: 768px) {
+    #faixada{
+        background-image: url("../assets/img/faixada.webp");
+        background-size: 110%;
+        background-repeat: no-repeat;
+        background-color: #06070B;
+    }
+  }
+  /* @media (min-width: 992px) {
+    #faixada{
+        background-image: url("../assets/img/faixada.webp");
+        background-size: auto;
+        background-repeat: no-repeat;
+    }
+  }
+  @media (min-width: 1200px) {
+    #faixada{
+        background-image: url("../assets/img/faixada.webp");
+        background-size: auto;
+        background-repeat: no-repeat;
+    }
+  } */
